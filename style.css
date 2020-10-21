@@ -1,0 +1,22 @@
+div{
+    padding: 10px;
+}
+
+table th {
+    vertical-align: bottom;
+    padding: .75rem;
+    vertical-align: top;
+  }
+
+table td {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+  }
+
+.thead-dark {
+      color: white;
+      background-color: black;
+  }
